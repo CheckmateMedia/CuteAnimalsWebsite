@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(#6498e6, #5ac77e);
+}
+
+title {
+font-size: 2em;
+color: turquoise;
+}
+
+img {
+    border: rosybrown;
+    border-style: inset;
+    border-width: 1em;
+    height: 400px;
+    margin: 2em;
+}
+
+#close {
+    float: left;
+    cursor: pointer;
+    z-index: 3; 
+    display: none; 
+}
+
+
+#title {
+    font-size: 3em;
+}
+
+.name {
+    font-weight: bold;
+    margin-left: 15%;
+    font-size: 2em;
+}
+
+#name {
+    margin-left: 33%;
+}
+
+#title {
+    margin-left: 25%;
+}
+
+#intro {
+    margin-left: 25%;
+}
+
+#link {
+    margin-left: 33%;
+}
