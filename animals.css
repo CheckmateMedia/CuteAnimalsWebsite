@@ -13,15 +13,8 @@ img {
     border-width: 1em;
     height: 400px;
     margin: 2em;
+    margin-left: 13em;
 }
-
-#close {
-    float: left;
-    cursor: pointer;
-    z-index: 3; 
-    display: none; 
-}
-
 
 #title {
     font-size: 3em;
@@ -29,7 +22,7 @@ img {
 
 .name {
     font-weight: bold;
-    margin-left: 15%;
+    margin-left: 33%;
     font-size: 2em;
 }
 
@@ -47,4 +40,36 @@ img {
 
 #link {
     margin-left: 33%;
+}  
+
+.abc {
+    float: left;
+    padding: .3em;
+}
+
+#A {
+    margin-left: 15em;
+}
+
+#themAll {
+    margin-left: 33%;
+}
+
+#beSure {
+    margin-left: 27%;
+}
+
+#picture {
+    z-index: -1;
+    background-image: url("BabySeaLionBG.png");
+    background-repeat: no-repeat;
+    background-position: right
+}
+
+button {
+    background-color: sandybrown;
+}
+
+.button {
+    margin-left: 20%;
 }
