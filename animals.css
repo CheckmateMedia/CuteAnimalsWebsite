@@ -45,6 +45,7 @@ img {
 .abc {
     float: left;
     padding: .3em;
+    padding-bottom: 3em;
 }
 
 #A {
@@ -87,6 +88,7 @@ button {
 
 #aNames  {
     padding-bottom: 3em;
+    padding-top: 3em;
 }
 
 a {
