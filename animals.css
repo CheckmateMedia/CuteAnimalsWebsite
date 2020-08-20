@@ -69,3 +69,30 @@ button {
 .button {
     margin-left: 20%;
 }
+
+.left,
+.right {
+    float: left;
+}
+
+.animals, #right {
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+#aNames {
+    margin-left: 5%;
+
+}
+
+#aNames  {
+    padding-bottom: 3em;
+}
+
+a {
+    color: gold;
+}
+
+#link {
+    margin-left: 17%;
+}
