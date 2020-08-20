@@ -45,7 +45,6 @@ img {
 .abc {
     float: left;
     padding: .3em;
-    padding-bottom: 3em;
 }
 
 #A {
@@ -109,12 +108,8 @@ a {
     color: rgba(255, 0, 0, 0.4);;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: rgb(230, 173, 173);
+@media screen and (max-width:100%) {
+    ul {
+        width: .5em;
     }
-    /*
-    .abc {
-        padding-bottom: 4em;
-    }*/
   }
