@@ -111,5 +111,6 @@ a {
 @media screen and (max-width:100%) {
   #aNames {
       padding-bottom: 3em;
+      margin-top: 3em;
   }
   }
