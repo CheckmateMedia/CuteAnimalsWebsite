@@ -96,14 +96,3 @@ a {
 #link {
     margin-left: 17%;
 }
-
-
-#cute {
-    z-index: 4;
-    width: 100px;
-    height: 100px;
-}
-#G, #K, #H, #I, #J, #D, #I,
-#T, #U, #V, #X, #Y, #Z {
-    color: rgba(255, 0, 0, 0.4);;
-}
