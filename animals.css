@@ -109,7 +109,7 @@ a {
 }
 
 @media screen and (max-width:100%) {
-    ul {
-        width: .5em;
-    }
+  #aNames {
+      padding-bottom: 3em;
+  }
   }
