@@ -112,8 +112,6 @@ a {
     color: rgba(255, 0, 0, 0.4);;
 }
 
-@media screen and (max-width:1200px) {
-  img {
-    width: 10% ;
+@media screen and (max-width: 600px) {
   }
-  }
+  
