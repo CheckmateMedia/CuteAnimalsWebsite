@@ -123,6 +123,10 @@ a {
      margin-bottom: 3em;
  } 
 
+ #left2 {
+     padding-top: 1em;
+ }
+
   /* Nav Bar */ 
   body {
     font-family: Arial, Helvetica, sans-serif;
